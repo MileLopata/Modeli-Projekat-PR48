@@ -39,3 +39,14 @@ C:\Users\KORISNIK\Documents\7. semestar\Modeli podataka - Gavra\Projekat2024_25\
 C:\Users\KORISNIK\Documents\7. semestar\Modeli podataka - Gavra\Projekat2024_25\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
 C:\Users\KORISNIK\Documents\7. semestar\Modeli podataka - Gavra\Projekat2024_25\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
 C:\Users\KORISNIK\Documents\7. semestar\Modeli podataka - Gavra\Projekat2024_25\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLab.59F05DFE.Up2Date
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLab.59F05DFE.Up2Date
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb

@@ -9,3 +9,52 @@
 7/19/2025 2:57:05 AM : Number of TERMINAL in model 7.
 7/19/2025 2:59:22 AM : Getting extent values for all DMS types failed for type SERIESCOMPENSATOR.
 	IteratorNext failed. Iterator ID = 4. Resources to fetch count = 1000. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference). 
+7/19/2025 1:09:37 PM : Getting extent values for all DMS types started.
+7/19/2025 1:09:43 PM : Getting extent values for all DMS types failed for type TERMINAL.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.1250565. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+7/19/2025 1:13:02 PM : Getting extent values for all DMS types started.
+7/19/2025 1:13:02 PM : Number of TERMINAL in model 10.
+7/19/2025 1:26:35 PM : Getting extent values for all DMS types started.
+7/19/2025 1:26:37 PM : Number of TERMINAL in model 13.
+7/19/2025 1:26:37 PM : Number of SERIESCOMPENSATOR in model 25.
+7/19/2025 1:26:37 PM : Number of DCLINESEGMENT in model 37.
+7/19/2025 1:26:37 PM : Number of ACLINESEGMENT in model 45.
+7/19/2025 2:05:07 PM : Getting extent values for all DMS types started.
+7/19/2025 2:05:09 PM : Number of TERMINAL in model 16.
+7/19/2025 2:05:09 PM : Number of SERIESCOMPENSATOR in model 31.
+7/19/2025 2:05:09 PM : Number of DCLINESEGMENT in model 46.
+7/19/2025 2:05:09 PM : Number of ACLINESEGMENT in model 56.
+7/19/2025 2:05:09 PM : Number of PLSIMPEDANCE in model 66.
+7/19/2025 2:08:03 PM : Getting extent values for all DMS types started.
+7/19/2025 2:08:08 PM : Getting extent values for all DMS types failed for type TERMINAL.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0895308. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+7/19/2025 2:09:03 PM : Getting extent values for all DMS types started.
+7/19/2025 2:09:03 PM : Number of TERMINAL in model 19.
+7/19/2025 2:09:03 PM : Number of SERIESCOMPENSATOR in model 37.
+7/19/2025 2:09:04 PM : Number of DCLINESEGMENT in model 55.
+7/19/2025 2:09:04 PM : Number of ACLINESEGMENT in model 67.
+7/19/2025 2:09:04 PM : Number of PLSIMPEDANCE in model 79.
+7/19/2025 2:09:04 PM : Number of CONNECTIVITYNODE in model 97.
+7/19/2025 2:09:04 PM : Getting extent values for all DMS types successfully ended.
+7/19/2025 2:19:13 PM : Getting extent values for all DMS types started.
+7/19/2025 2:19:13 PM : Number of TERMINAL in model 22.
+7/19/2025 2:19:13 PM : Number of SERIESCOMPENSATOR in model 43.
+7/19/2025 2:19:13 PM : Number of DCLINESEGMENT in model 64.
+7/19/2025 2:19:13 PM : Number of ACLINESEGMENT in model 78.
+7/19/2025 2:19:13 PM : Number of PLSIMPEDANCE in model 92.
+7/19/2025 2:19:13 PM : Number of CONNECTIVITYNODE in model 113.
+7/19/2025 2:19:13 PM : Getting extent values for all DMS types successfully ended.
+7/19/2025 2:27:33 PM : Getting extent values for all DMS types started.
+7/19/2025 2:27:34 PM : Number of TERMINAL in model 25.
+7/19/2025 2:27:34 PM : Number of SERIESCOMPENSATOR in model 49.
+7/19/2025 2:27:34 PM : Number of DCLINESEGMENT in model 73.
+7/19/2025 2:27:34 PM : Number of ACLINESEGMENT in model 89.
+7/19/2025 2:27:34 PM : Number of PLSIMPEDANCE in model 105.
+7/19/2025 2:27:34 PM : Number of CONNECTIVITYNODE in model 129.
+7/19/2025 2:27:34 PM : Getting extent values for all DMS types successfully ended.
+7/19/2025 2:27:58 PM : Getting values method started.
+7/19/2025 2:27:58 PM : Getting values method successfully finished.
+7/19/2025 2:28:05 PM : Getting values method started.
+7/19/2025 2:28:05 PM : Getting values method successfully finished.
+7/19/2025 2:28:31 PM : Getting values method started.
+7/19/2025 2:28:31 PM : Getting values method successfully finished.

@@ -56,6 +56,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Pages\GetExtentValuesPage.xaml.cs">
+      <DependentUpon>GetExtentValuesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\GetRelatedValuesPage.xaml.cs">
+      <DependentUpon>GetRelatedValuesPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\GetValuesPage.xaml.cs">
       <DependentUpon>GetValuesPage.xaml</DependentUpon>
     </Compile>
@@ -72,6 +78,14 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\GetExtentValuesPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\GetRelatedValuesPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\GetValuesPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

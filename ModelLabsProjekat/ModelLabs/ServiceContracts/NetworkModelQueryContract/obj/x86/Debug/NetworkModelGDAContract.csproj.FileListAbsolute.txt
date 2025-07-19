@@ -20,3 +20,10 @@ C:\Users\KORISNIK\Documents\7. semestar\Modeli podataka - Gavra\Projekat2024_25\
 C:\Users\KORISNIK\Documents\7. semestar\Modeli podataka - Gavra\Projekat2024_25\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkM.BEDDB4BB.Up2Date
 C:\Users\KORISNIK\Documents\7. semestar\Modeli podataka - Gavra\Projekat2024_25\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
 C:\Users\KORISNIK\Documents\7. semestar\Modeli podataka - Gavra\Projekat2024_25\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.AssemblyReference.cache
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkM.BEDDB4BB.Up2Date
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
