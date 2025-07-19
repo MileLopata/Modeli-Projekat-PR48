@@ -35,8 +35,17 @@ namespace NMSTestClientGUI.Pages
                 .Cast<ModelCode>()
                 .ToDictionary(mc => mc, mc => resourcesDesc.GetAllPropertyIds(mc));
 
+
+
+
             allGids = testGda.TestGetExtentValuesAllTypes();
-            GIDComboBox.ItemsSource = allGids.Select(g => $"0x{g:x16}").ToList();
+
+            GIDComboBox.ItemsSource = allGids
+                .Select(g => $"{resourcesDesc.GetModelCodeFromId(g)} - 0x{g:x16}")
+                .ToList();
+
+
+
 
             dmsTypes = Enum.GetValues(typeof(DMSType))
                 .Cast<DMSType>()

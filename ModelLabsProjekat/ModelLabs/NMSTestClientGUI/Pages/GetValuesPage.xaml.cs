@@ -31,7 +31,9 @@ namespace NMSTestClientGUI.Pages
                 .ToDictionary(mc => mc, mc => resourcesDesc.GetAllPropertyIds(mc));
 
             gids = testGda.TestGetExtentValuesAllTypes();
-            GIDCombobox.ItemsSource = gids.Select(gid => $"0x{gid:x16}").ToList();
+            GIDCombobox.ItemsSource = gids
+                .Select(g => $"{resourcesDesc.GetModelCodeFromId(g)} - 0x{g:x16}")
+                .ToList();
         }
 
         private void GIDCombobox_SelectionChanged(object sender, SelectionChangedEventArgs e)

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\KORISNIK\Documents\GitHub\pr48_2021\Modeli-Projekat-PR48\ModelLabsProjekat\ModelLabs\NMSTestClientGUI\App.xaml
-2-1752727472
+41048084529
 
-7-1299626693
+9409175682
 18-521308621
-MainWindow.xaml;Pages\GetValuesPage.xaml;
+MainWindow.xaml;Pages\GetExtentValuesPage.xaml;Pages\GetRelatedValuesPage.xaml;Pages\GetValuesPage.xaml;
 
 False
 
