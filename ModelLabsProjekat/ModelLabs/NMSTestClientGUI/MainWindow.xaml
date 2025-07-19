@@ -6,17 +6,26 @@
         xmlns:local="clr-namespace:NMSTestClientGUI"
         xmlns:pages="clr-namespace:NMSTestClientGUI.Pages"
         mc:Ignorable="d"
-        Title="MainWindow" Height="800" Width="900">
-    <Grid>
-        <TabControl>
-            <TabItem Header="Get Values">
-                <Frame Source="Pages/GetValuesPage.xaml"/>
+        Title="NMS Test Client" Height="800" Width="1000"
+        Background="White">
+
+    <Grid Margin="10">
+        <TabControl Background="White" FontSize="14" FontWeight="SemiBold" Padding="10"
+                    BorderThickness="1" BorderBrush="LightGray">
+            <TabItem Header="Get Values" Padding="10,5">
+                <Frame Source="Pages/GetValuesPage.xaml"
+                       NavigationUIVisibility="Hidden"
+                       Margin="0"/>
             </TabItem>
-            <TabItem Header="Get Extent Values">
-                <Frame Source="Pages/GetExtentValuesPage.xaml"/>
+            <TabItem Header="Get Extent Values" Padding="10,5">
+                <Frame Source="Pages/GetExtentValuesPage.xaml"
+                       NavigationUIVisibility="Hidden"
+                       Margin="0"/>
             </TabItem>
-            <TabItem Header="Get Related Values">
-                <Frame Source="Pages/GetRelatedValuesPage.xaml"/>
+            <TabItem Header="Get Related Values" Padding="10,5">
+                <Frame Source="Pages/GetRelatedValuesPage.xaml"
+                       NavigationUIVisibility="Hidden"
+                       Margin="0"/>
             </TabItem>
         </TabControl>
     </Grid>

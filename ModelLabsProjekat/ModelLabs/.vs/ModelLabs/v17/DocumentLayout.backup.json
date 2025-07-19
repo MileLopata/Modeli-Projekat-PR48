@@ -3,16 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\github\\pr48_2021\\modeli-projekat-pr48\\modellabsprojekat\\modellabs\\nmstestclientgui\\pages\\getvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\nmstestclientgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\github\\pr48_2021\\modeli-projekat-pr48\\modellabsprojekat\\modellabs\\nmstestclientgui\\pages\\getrelatedvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getrelatedvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\github\\pr48_2021\\modeli-projekat-pr48\\modellabsprojekat\\modellabs\\nmstestclientgui\\pages\\getextentvaluespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getextentvaluespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\nmstestclientgui\\pages\\getrelatedvaluespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getrelatedvaluespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\github\\pr48_2021\\modeli-projekat-pr48\\modellabsprojekat\\modellabs\\nmstestclientgui\\pages\\getvaluespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getvaluespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KORISNIK\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\nmstestclientgui\\pages\\getvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\nmstestclientgui\\pages\\getrelatedvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getrelatedvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\nmstestclientgui\\pages\\getextentvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\common\\modeldefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modeldefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\nmstestclientgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +45,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "GetExtentValuesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetExtentValuesPage.xaml",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\Pages\\GetExtentValuesPage.xaml",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetExtentValuesPage.xaml",
+              "RelativeToolTip": "NMSTestClientGUI\\Pages\\GetExtentValuesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T19:41:27.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetValuesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetValuesPage.xaml",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\Pages\\GetValuesPage.xaml",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetValuesPage.xaml",
+              "RelativeToolTip": "NMSTestClientGUI\\Pages\\GetValuesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T19:39:59.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCQAAAA2AAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T18:39:38.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GetValuesPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetValuesPage.xaml.cs",
               "RelativeDocumentMoniker": "NMSTestClientGUI\\Pages\\GetValuesPage.xaml.cs",
@@ -46,12 +94,11 @@
               "RelativeToolTip": "NMSTestClientGUI\\Pages\\GetValuesPage.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T18:34:51.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T18:34:51.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "GetRelatedValuesPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetRelatedValuesPage.xaml.cs",
               "RelativeDocumentMoniker": "NMSTestClientGUI\\Pages\\GetRelatedValuesPage.xaml.cs",
@@ -59,7 +106,18 @@
               "RelativeToolTip": "NMSTestClientGUI\\Pages\\GetRelatedValuesPage.xaml.cs",
               "ViewState": "AgIAABsAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T12:58:47.985Z",
+              "WhenOpened": "2025-07-19T12:58:47.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\MainWindow.xaml",
+              "RelativeToolTip": "NMSTestClientGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T12:57:36.752Z",
               "EditorCaption": ""
             },
             {
@@ -76,19 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "NMSTestClientGUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\MainWindow.xaml",
-              "RelativeToolTip": "NMSTestClientGUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-19T12:57:36.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ModelDefines.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\Common\\ModelDefines.cs",
               "RelativeDocumentMoniker": "Common\\ModelDefines.cs",
@@ -96,12 +142,11 @@
               "RelativeToolTip": "Common\\ModelDefines.cs",
               "ViewState": "AgIAADsAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T12:56:46.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T12:56:46.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GetExtentValuesPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\GitHub\\pr48_2021\\Modeli-Projekat-PR48\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetExtentValuesPage.xaml.cs",
               "RelativeDocumentMoniker": "NMSTestClientGUI\\Pages\\GetExtentValuesPage.xaml.cs",
@@ -109,8 +154,7 @@
               "RelativeToolTip": "NMSTestClientGUI\\Pages\\GetExtentValuesPage.xaml.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAowEwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T12:52:14.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T12:52:14.339Z"
             }
           ]
         }

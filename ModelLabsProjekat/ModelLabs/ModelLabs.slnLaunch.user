@@ -3,11 +3,7 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "NetworkModelService\\NetworkModelService.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "ModelLabsApp\\ModelLabsApp.csproj",
+        "Path": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj",
         "Action": "Start"
       },
       {
