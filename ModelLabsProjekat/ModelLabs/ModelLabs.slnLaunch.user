@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "NetworkModelService\\NetworkModelService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ModelLabsApp\\ModelLabsApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "NMSTestClientGUI\\NMSTestClientGUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

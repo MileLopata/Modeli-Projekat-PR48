@@ -1,0 +1,11 @@
+7/19/2025 2:52:19 AM : Getting extent values for all DMS types started.
+7/19/2025 2:52:24 AM : Getting extent values for all DMS types failed for type TERMINAL.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.1269160. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+7/19/2025 2:53:22 AM : Getting extent values for all DMS types started.
+7/19/2025 2:53:23 AM : Number of TERMINAL in model 4.
+7/19/2025 2:55:18 AM : Getting extent values for all DMS types failed for type SERIESCOMPENSATOR.
+	IteratorNext failed. Iterator ID = 2. Resources to fetch count = 1000. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference). 
+7/19/2025 2:57:05 AM : Getting extent values for all DMS types started.
+7/19/2025 2:57:05 AM : Number of TERMINAL in model 7.
+7/19/2025 2:59:22 AM : Getting extent values for all DMS types failed for type SERIESCOMPENSATOR.
+	IteratorNext failed. Iterator ID = 4. Resources to fetch count = 1000. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference). 

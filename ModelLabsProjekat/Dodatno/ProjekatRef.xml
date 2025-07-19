@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#" xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+
+
+  <!-- PER LENGTH SEQUENCE IMPEDANCE (PLSIMPEDANCE) -->
+  <cim:PerLengthSequenceImpedance rdf:ID="PLS1">
+    <cim:PerLengthSequenceImpedance.b0ch>0.0009</cim:PerLengthSequenceImpedance.b0ch>
+    <cim:PerLengthSequenceImpedance.bch>0.0018</cim:PerLengthSequenceImpedance.bch>
+    <cim:PerLengthSequenceImpedance.g0ch>0.00003</cim:PerLengthSequenceImpedance.g0ch>
+    <cim:PerLengthSequenceImpedance.gch>0.00005</cim:PerLengthSequenceImpedance.gch>
+    <cim:PerLengthSequenceImpedance.r>0.04</cim:PerLengthSequenceImpedance.r>
+    <cim:PerLengthSequenceImpedance.r0>0.007</cim:PerLengthSequenceImpedance.r0>
+    <cim:PerLengthSequenceImpedance.x>0.08</cim:PerLengthSequenceImpedance.x>
+    <cim:PerLengthSequenceImpedance.x0>0.01</cim:PerLengthSequenceImpedance.x0>
+  </cim:PerLengthSequenceImpedance>
+  <cim:PerLengthSequenceImpedance rdf:ID="PLS2">
+    <cim:PerLengthSequenceImpedance.b0ch>0.00085</cim:PerLengthSequenceImpedance.b0ch>
+    <cim:PerLengthSequenceImpedance.bch>0.0016</cim:PerLengthSequenceImpedance.bch>
+    <cim:PerLengthSequenceImpedance.g0ch>0.000035</cim:PerLengthSequenceImpedance.g0ch>
+    <cim:PerLengthSequenceImpedance.gch>0.000055</cim:PerLengthSequenceImpedance.gch>
+    <cim:PerLengthSequenceImpedance.r>0.038</cim:PerLengthSequenceImpedance.r>
+    <cim:PerLengthSequenceImpedance.r0>0.0065</cim:PerLengthSequenceImpedance.r0>
+    <cim:PerLengthSequenceImpedance.x>0.075</cim:PerLengthSequenceImpedance.x>
+    <cim:PerLengthSequenceImpedance.x0>0.012</cim:PerLengthSequenceImpedance.x0>
+  </cim:PerLengthSequenceImpedance>
+
+
+  <!-- SERIES COMPENSATOR -->
+  <cim:SeriesCompensator rdf:ID="SC1">
+    <cim:SeriesCompensator.r>0.05</cim:SeriesCompensator.r>
+    <cim:SeriesCompensator.r0>0.01</cim:SeriesCompensator.r0>
+    <cim:SeriesCompensator.x>0.12</cim:SeriesCompensator.x>
+    <cim:SeriesCompensator.x0>0.02</cim:SeriesCompensator.x0>
+  </cim:SeriesCompensator>
+  <cim:SeriesCompensator rdf:ID="SC2">
+    <cim:SeriesCompensator.r>0.06</cim:SeriesCompensator.r>
+    <cim:SeriesCompensator.r0>0.015</cim:SeriesCompensator.r0>
+    <cim:SeriesCompensator.x>0.11</cim:SeriesCompensator.x>
+    <cim:SeriesCompensator.x0>0.025</cim:SeriesCompensator.x0>
+  </cim:SeriesCompensator>
+  <cim:SeriesCompensator rdf:ID="SC3">
+    <cim:SeriesCompensator.r>0.02</cim:SeriesCompensator.r>
+    <cim:SeriesCompensator.r0>0.025</cim:SeriesCompensator.r0>
+    <cim:SeriesCompensator.x>0.11</cim:SeriesCompensator.x>
+    <cim:SeriesCompensator.x0>0.025</cim:SeriesCompensator.x0>
+  </cim:SeriesCompensator>
+
+
+
+  <!-- ACLINESEGMENT -->
+  <cim:ACLineSegment rdf:ID="ACLS_01">
+    <cim:ACLineSegment.PerLengthImpedance rdf:resource="#PLS1"/>
+    <cim:ACLineSegment.b0ch>4.1</cim:ACLineSegment.b0ch>
+    <cim:ACLineSegment.bch>2.2</cim:ACLineSegment.bch>
+    <cim:ACLineSegment.g0ch>4.3</cim:ACLineSegment.g0ch>
+    <cim:ACLineSegment.gch>2.1</cim:ACLineSegment.gch>
+    <cim:ACLineSegment.r>2.3</cim:ACLineSegment.r>
+    <cim:ACLineSegment.r0>1.4</cim:ACLineSegment.r0>
+    <cim:ACLineSegment.x>2.1</cim:ACLineSegment.x>
+    <cim:ACLineSegment.x0>1.3</cim:ACLineSegment.x0>
+    <cim:Conductor.length>1000.0</cim:Conductor.length>
+  </cim:ACLineSegment>
+  <cim:ACLineSegment rdf:ID="ACLS_02">
+    <cim:ACLineSegment.PerLengthImpedance rdf:resource="#PLS2"/>
+    <cim:ACLineSegment.b0ch>5.2</cim:ACLineSegment.b0ch>
+    <cim:ACLineSegment.bch>9.1</cim:ACLineSegment.bch>
+    <cim:ACLineSegment.g0ch>3.3</cim:ACLineSegment.g0ch>
+    <cim:ACLineSegment.gch>4.1</cim:ACLineSegment.gch>
+    <cim:ACLineSegment.r>3.3</cim:ACLineSegment.r>
+    <cim:ACLineSegment.r0>1.1</cim:ACLineSegment.r0>
+    <cim:ACLineSegment.x>2.1</cim:ACLineSegment.x>
+    <cim:ACLineSegment.x0>4.3</cim:ACLineSegment.x0>
+    <cim:Conductor.length>2000.0</cim:Conductor.length>
+  </cim:ACLineSegment>
+
+
+  <!-- DCLINESEGMENT -->
+  <cim:DCLineSegment rdf:ID="DCLS_01">
+    <cim:Conductor.length>1000.0</cim:Conductor.length>
+  </cim:DCLineSegment>
+  <cim:DCLineSegment rdf:ID="DCLS_02">
+    <cim:Conductor.length>333.0</cim:Conductor.length>
+  </cim:DCLineSegment>
+  <cim:DCLineSegment rdf:ID="DCLS_03">
+    <cim:Conductor.length>2321.0</cim:Conductor.length>
+  </cim:DCLineSegment>
+
+
+
+  <!-- TERMINAL -->
+  <cim:Terminal rdf:ID="T1">
+    <cim:Terminal.ConnectivityNode rdf:resource="#CN1"/>
+    <cim.Terminal.ConductingEquipment rdf:resource="#SC1"/>
+  </cim:Terminal>
+  <cim:Terminal rdf:ID="T2">
+    <cim:Terminal.ConnectivityNode rdf:resource="#CN2"/>
+    <cim.Terminal.ConductingEquipment rdf:resource="#SC2"/>
+  </cim:Terminal>
+  <cim:Terminal rdf:ID="T3">
+    <cim:Terminal.ConnectivityNode rdf:resource="#CN3"/>
+     <cim.Terminal.ConductingEquipment rdf:resource="#SC3"/>
+  </cim:Terminal>
+
+
+  <!-- CONNECTIVITY NODE -->
+  <cim:ConnectivityNode rdf:ID="CN1">
+    <cim:ConnectivityNode.description>Node for Busbar A</cim:ConnectivityNode.description>
+  </cim:ConnectivityNode>
+  <cim:ConnectivityNode rdf:ID="CN2">
+    <cim:ConnectivityNode.description>Node for Line B</cim:ConnectivityNode.description>
+  </cim:ConnectivityNode>
+  <cim:ConnectivityNode rdf:ID="CN3">
+    <cim:ConnectivityNode.description>Load node</cim:ConnectivityNode.description>
+  </cim:ConnectivityNode>
+
+
+
+
+</rdf:RDF>

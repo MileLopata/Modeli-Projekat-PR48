@@ -1,0 +1,122 @@
+7/18/2025 3:46:13 PM : Starting Network Model Service...
+7/18/2025 3:51:57 PM : Starting Network Model Service...
+7/18/2025 3:51:58 PM : The WCF service GenericDataAccess is ready.
+7/18/2025 3:51:58 PM : Endpoints:
+7/18/2025 3:51:58 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/18/2025 3:51:58 PM : Connection string: ../NetworkModelData.data
+7/18/2025 3:51:58 PM : Trace level: Info
+7/18/2025 3:51:58 PM : The Network Model Service is started.
+7/18/2025 3:51:58 PM : Press <Enter> to stop the service.
+7/18/2025 3:52:29 PM : Applying  delta to network model.
+7/18/2025 3:52:29 PM : Inserting entity with GID (0000000100000001).
+7/18/2025 3:52:29 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+7/18/2025 3:52:29 PM : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list..
+7/18/2025 4:29:20 PM : Starting Network Model Service...
+7/18/2025 4:29:21 PM : Inserting entity with GID (0000000100000001).
+7/18/2025 4:29:21 PM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+7/18/2025 4:29:21 PM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+7/18/2025 4:29:22 PM : The WCF service GenericDataAccess is ready.
+7/18/2025 4:29:22 PM : Endpoints:
+7/18/2025 4:29:22 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/18/2025 4:29:22 PM : Connection string: ../NetworkModelData.data
+7/18/2025 4:29:22 PM : Trace level: Info
+7/18/2025 4:29:22 PM : The Network Model Service is started.
+7/18/2025 4:29:22 PM : Press <Enter> to stop the service.
+7/18/2025 4:30:19 PM : Applying  delta to network model.
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000600000001).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000600000002).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000600000003).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000500000001).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000500000002).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000400000001).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000400000002).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000300000001).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000300000002).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000300000003).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000200000001).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000200000002).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000200000003).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000100000002).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000100000003).
+7/18/2025 4:30:19 PM : Inserting entity with GID (0000000100000004).
+7/18/2025 4:30:20 PM : Applying delta to network model successfully finished.
+7/19/2025 2:45:40 AM : Starting Network Model Service...
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000100000001).
+7/19/2025 2:45:41 AM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+7/19/2025 2:45:41 AM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000600000001).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000600000002).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000600000003).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000500000001).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000500000002).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000400000001).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000400000002).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000300000001).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000300000002).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000300000003).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000200000001).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000200000002).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000200000003).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000100000002).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000100000003).
+7/19/2025 2:45:41 AM : Inserting entity with GID (0000000100000004).
+7/19/2025 2:45:42 AM : The WCF service GenericDataAccess is ready.
+7/19/2025 2:45:42 AM : Endpoints:
+7/19/2025 2:45:42 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/19/2025 2:45:42 AM : Connection string: ../NetworkModelData.data
+7/19/2025 2:45:42 AM : Trace level: Info
+7/19/2025 2:45:42 AM : The Network Model Service is started.
+7/19/2025 2:45:42 AM : Press <Enter> to stop the service.
+7/19/2025 2:52:58 AM : Starting Network Model Service...
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000100000001).
+7/19/2025 2:52:58 AM : Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+7/19/2025 2:52:58 AM : Error while applying delta (id = 1) during service initialization. Failed to insert entity (GID = 0x0000000100000001) into model. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000600000001).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000600000002).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000600000003).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000500000001).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000500000002).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000400000001).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000400000002).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000300000001).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000300000002).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000300000003).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000200000001).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000200000002).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000200000003).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000100000002).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000100000003).
+7/19/2025 2:52:58 AM : Inserting entity with GID (0000000100000004).
+7/19/2025 2:52:59 AM : The WCF service GenericDataAccess is ready.
+7/19/2025 2:52:59 AM : Endpoints:
+7/19/2025 2:52:59 AM : net.tcp://localhost:10000/NetworkModelService/GDA/
+7/19/2025 2:52:59 AM : Connection string: ../NetworkModelData.data
+7/19/2025 2:52:59 AM : Trace level: Info
+7/19/2025 2:52:59 AM : The Network Model Service is started.
+7/19/2025 2:52:59 AM : Press <Enter> to stop the service.
+7/19/2025 2:53:23 AM : Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference).
+7/19/2025 2:53:23 AM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference).
+7/19/2025 2:53:23 AM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference).
+7/19/2025 2:53:23 AM : IteratorNext failed. Iterator ID = 2. Resources to fetch count = 1000. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference). 
+7/19/2025 2:56:45 AM : Applying  delta to network model.
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000600000004).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000600000005).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000600000006).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000500000003).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000500000004).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000400000003).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000400000004).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000300000004).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000300000005).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000300000006).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000200000004).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000200000005).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000200000006).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000100000005).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000100000006).
+7/19/2025 2:56:45 AM : Inserting entity with GID (0000000100000007).
+7/19/2025 2:56:45 AM : Applying delta to network model successfully finished.
+7/19/2025 2:57:05 AM : Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference).
+7/19/2025 2:57:05 AM : Collecting ResourceDescriptions failed. Exception: Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference).
+7/19/2025 2:57:05 AM : Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference).
+7/19/2025 2:57:05 AM : IteratorNext failed. Iterator ID = 4. Resources to fetch count = 1000. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (CONDUCTINGEQUIPMENT_TERMINAL) because specified vector value is not compatible with property type (Reference). 

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KORISNIK\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\7. semestar\\modeli podataka - gavra\\projekat2024_25\\modellabsprojekat\\modellabs\\nmstestclientgui\\testgdagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\testgdagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\obj\\Debug\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMSTestClientGUI\\obj\\Debug\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\7. semestar\\modeli podataka - gavra\\projekat2024_25\\modellabsprojekat\\modellabs\\nmstestclientgui\\pages\\getvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getvaluespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\7. semestar\\modeli podataka - gavra\\projekat2024_25\\modellabsprojekat\\modellabs\\nmstestclientgui\\pages\\getvaluespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\pages\\getvaluespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\7. semestar\\modeli podataka - gavra\\projekat2024_25\\modellabsprojekat\\modellabs\\nmstestclientgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\7. semestar\\modeli podataka - gavra\\projekat2024_25\\modellabsprojekat\\modellabs\\nmstestclientgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\7. semestar\\modeli podataka - gavra\\projekat2024_25\\modellabsprojekat\\modellabs\\nmstestclientgui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\7. semestar\\modeli podataka - gavra\\projekat2024_25\\modellabsprojekat\\modellabs\\nmstestclientgui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|c:\\users\\korisnik\\documents\\7. semestar\\modeli podataka - gavra\\projekat2024_25\\modellabsprojekat\\modellabs\\nmstestclientgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41BE240D-CF15-49CF-AD05-DA6EE82AB553}|NMSTestClientGUI\\NMSTestClientGUI.csproj|solutionrelative:nmstestclientgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs [Read Only]",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwHcAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:55:59.258Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\obj\\Debug\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\obj\\Debug\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\obj\\Debug\\MainWindow.g.cs",
+              "RelativeToolTip": "NMSTestClientGUI\\obj\\Debug\\MainWindow.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:46:41.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetValuesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetValuesPage.xaml.cs",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\Pages\\GetValuesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetValuesPage.xaml.cs",
+              "RelativeToolTip": "NMSTestClientGUI\\Pages\\GetValuesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:41:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetValuesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetValuesPage.xaml",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\Pages\\GetValuesPage.xaml",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\Pages\\GetValuesPage.xaml",
+              "RelativeToolTip": "NMSTestClientGUI\\Pages\\GetValuesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T00:36:35.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\App.config",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\App.config",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\App.config",
+              "RelativeToolTip": "NMSTestClientGUI\\App.config",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-19T00:33:21.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\App.xaml.cs",
+              "RelativeToolTip": "NMSTestClientGUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:32:54.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\App.xaml",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\App.xaml",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\App.xaml",
+              "RelativeToolTip": "NMSTestClientGUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T00:32:52.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestGdaGUI.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\TestGdaGUI.cs",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\TestGdaGUI.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\TestGdaGUI.cs",
+              "RelativeToolTip": "NMSTestClientGUI\\TestGdaGUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:31:00.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\MainWindow.xaml",
+              "RelativeToolTip": "NMSTestClientGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T00:28:47.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NMSTestClientGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\7. semestar\\Modeli podataka - Gavra\\Projekat2024_25\\ModelLabsProjekat\\ModelLabs\\NMSTestClientGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NMSTestClientGUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:28:45.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

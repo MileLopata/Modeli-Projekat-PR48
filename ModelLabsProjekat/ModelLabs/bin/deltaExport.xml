@@ -1,0 +1,148 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="16">
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="CONNECTIVITYNODE_DESCRIPTION" value="Node for Busbar A" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="CONNECTIVITYNODE_DESCRIPTION" value="Node for Line B" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffd" type="CONNECTIVITYNODE" />
+          <Properties>
+            <Property id="CONNECTIVITYNODE_DESCRIPTION" value="Load node" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="PLSIMPEDANCE" />
+          <Properties>
+            <Property id="PLSIMPEDANCE_B0CH_SUSCPL" value="0.0009" />
+            <Property id="PLSIMPEDANCE_BCH_SUSCPL" value="0.0018" />
+            <Property id="PLSIMPEDANCE_G0CH_CONDPL" value="3E-05" />
+            <Property id="PLSIMPEDANCE_GCH_CONDPL" value="5E-05" />
+            <Property id="PLSIMPEDANCE_R_RESPL" value="0.04" />
+            <Property id="PLSIMPEDANCE_R0_RESPL" value="0.007" />
+            <Property id="PLSIMPEDANCE_X_REACPL" value="0.08" />
+            <Property id="PLSIMPEDANCE_X0_REACPL" value="0.01" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="PLSIMPEDANCE" />
+          <Properties>
+            <Property id="PLSIMPEDANCE_B0CH_SUSCPL" value="0.00085" />
+            <Property id="PLSIMPEDANCE_BCH_SUSCPL" value="0.0016" />
+            <Property id="PLSIMPEDANCE_G0CH_CONDPL" value="3.5E-05" />
+            <Property id="PLSIMPEDANCE_GCH_CONDPL" value="5.5E-05" />
+            <Property id="PLSIMPEDANCE_R_RESPL" value="0.038" />
+            <Property id="PLSIMPEDANCE_R0_RESPL" value="0.0065" />
+            <Property id="PLSIMPEDANCE_X_REACPL" value="0.075" />
+            <Property id="PLSIMPEDANCE_X0_REACPL" value="0.012" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="ACLINESEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="1000" />
+            <Property id="ACLINESEGMENT_B0CH_SUSCEPTANCE" value="4.1" />
+            <Property id="ACLINESEGMENT_BCH_SUSCEPTANCE" value="2.2" />
+            <Property id="ACLINESEGMENT_G0CH_SUSCEPTANCE" value="4.3" />
+            <Property id="ACLINESEGMENT_GCH_SUSCEPTANCE" value="2.1" />
+            <Property id="ACLINESEGMENT_R_RESISTANCE" value="2.3" />
+            <Property id="ACLINESEGMENT_R0_RESISTANCE" value="1.4" />
+            <Property id="ACLINESEGMENT_X_REACTANCE" value="2.1" />
+            <Property id="ACLINESEGMNET_X0_REACTANCE" value="1.3" />
+            <Property id="ACLINESEGMENT_PERLENGTHIMPEDANCE" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="ACLINESEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="2000" />
+            <Property id="ACLINESEGMENT_B0CH_SUSCEPTANCE" value="5.2" />
+            <Property id="ACLINESEGMENT_BCH_SUSCEPTANCE" value="9.1" />
+            <Property id="ACLINESEGMENT_G0CH_SUSCEPTANCE" value="3.3" />
+            <Property id="ACLINESEGMENT_GCH_SUSCEPTANCE" value="4.1" />
+            <Property id="ACLINESEGMENT_R_RESISTANCE" value="3.3" />
+            <Property id="ACLINESEGMENT_R0_RESISTANCE" value="1.1" />
+            <Property id="ACLINESEGMENT_X_REACTANCE" value="2.1" />
+            <Property id="ACLINESEGMNET_X0_REACTANCE" value="4.3" />
+            <Property id="ACLINESEGMENT_PERLENGTHIMPEDANCE" value="0x00000005fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="DCLINESEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="1000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="DCLINESEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="333" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffd" type="DCLINESEGMENT" />
+          <Properties>
+            <Property id="CONDUCTOR_LENGTH" value="2321" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="SERIESCOMPENSATOR_R_RESISTANCE" value="0.05" />
+            <Property id="SERIESCOMPENSATOR_R0_RESISTANCE" value="0.01" />
+            <Property id="SERIESCOMPENSATOR_X_RESISTANCE" value="0.12" />
+            <Property id="SERIESCOMPENSATOR_X0_RESISATANCE" value="0.02" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="SERIESCOMPENSATOR_R_RESISTANCE" value="0.06" />
+            <Property id="SERIESCOMPENSATOR_R0_RESISTANCE" value="0.015" />
+            <Property id="SERIESCOMPENSATOR_X_RESISTANCE" value="0.11" />
+            <Property id="SERIESCOMPENSATOR_X0_RESISATANCE" value="0.025" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffd" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="SERIESCOMPENSATOR_R_RESISTANCE" value="0.02" />
+            <Property id="SERIESCOMPENSATOR_R0_RESISTANCE" value="0.025" />
+            <Property id="SERIESCOMPENSATOR_X_RESISTANCE" value="0.11" />
+            <Property id="SERIESCOMPENSATOR_X0_RESISATANCE" value="0.025" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONNECTIVITYNODE" value="0x00000006ffffffff" />
+            <Property id="TERMINAL_CONDUCTINGEQUIPMENT" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONNECTIVITYNODE" value="0x00000006fffffffe" />
+            <Property id="TERMINAL_CONDUCTINGEQUIPMENT" value="0x00000002fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffd" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONNECTIVITYNODE" value="0x00000006fffffffd" />
+            <Property id="TERMINAL_CONDUCTINGEQUIPMENT" value="0x00000002fffffffd" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
